@@ -1,3 +1,3 @@
 # SOS2223-21-sandbox
-hello
-otra prueba
+Codigo L06:
+-api sencilla con get/post
